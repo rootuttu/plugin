@@ -150,3 +150,5 @@ async def yashraid(event):
         await LEGEND.send_message(kek, "TELEGRAM ME RAHNA HAI TO LEGEND KO PAPA BOLNA PAREGA WARNA TUMHARII BHN XUDEGI AISE HI ROJ")
         
         
+
+        
